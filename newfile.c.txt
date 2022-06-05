@@ -1,1 +1,3 @@
 newfile 
+line in local 
+line 2 in local
