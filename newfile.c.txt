@@ -1,5 +1,4 @@
 newfile 
-
 change from another feature
 line 2 in local
 line in remote branch
